@@ -1,4 +1,5 @@
-Master's Research codes (written in Python)
+Master's Thesis Research codes
+==============================
 
 Analyzes the load-based performances of 3 different Connected Dominating Set algorithm. 
 
